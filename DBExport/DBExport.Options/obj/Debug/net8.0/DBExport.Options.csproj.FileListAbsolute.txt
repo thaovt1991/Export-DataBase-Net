@@ -1,0 +1,12 @@
+C:\Project Learning\Export learning\Export-DataBase-Net\DBExport\DBExport.Options\bin\Debug\net8.0\DBExport.Options.deps.json
+C:\Project Learning\Export learning\Export-DataBase-Net\DBExport\DBExport.Options\bin\Debug\net8.0\DBExport.Options.dll
+C:\Project Learning\Export learning\Export-DataBase-Net\DBExport\DBExport.Options\bin\Debug\net8.0\DBExport.Options.pdb
+C:\Project Learning\Export learning\Export-DataBase-Net\DBExport\DBExport.Options\obj\Debug\net8.0\DBExport.Options.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project Learning\Export learning\Export-DataBase-Net\DBExport\DBExport.Options\obj\Debug\net8.0\DBExport.Options.AssemblyInfoInputs.cache
+C:\Project Learning\Export learning\Export-DataBase-Net\DBExport\DBExport.Options\obj\Debug\net8.0\DBExport.Options.AssemblyInfo.cs
+C:\Project Learning\Export learning\Export-DataBase-Net\DBExport\DBExport.Options\obj\Debug\net8.0\DBExport.Options.csproj.CoreCompileInputs.cache
+C:\Project Learning\Export learning\Export-DataBase-Net\DBExport\DBExport.Options\obj\Debug\net8.0\DBExport.Options.sourcelink.json
+C:\Project Learning\Export learning\Export-DataBase-Net\DBExport\DBExport.Options\obj\Debug\net8.0\DBExport.Options.dll
+C:\Project Learning\Export learning\Export-DataBase-Net\DBExport\DBExport.Options\obj\Debug\net8.0\refint\DBExport.Options.dll
+C:\Project Learning\Export learning\Export-DataBase-Net\DBExport\DBExport.Options\obj\Debug\net8.0\DBExport.Options.pdb
+C:\Project Learning\Export learning\Export-DataBase-Net\DBExport\DBExport.Options\obj\Debug\net8.0\ref\DBExport.Options.dll

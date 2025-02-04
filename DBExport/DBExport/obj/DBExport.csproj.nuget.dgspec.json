@@ -1,0 +1,435 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport\\DBExport.csproj": {}
+  },
+  "projects": {
+    "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseBuilders\\DBExport.DatabaseBuilders.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseBuilders\\DBExport.DatabaseBuilders.csproj",
+        "projectName": "DBExport.DatabaseBuilders",
+        "projectPath": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseBuilders\\DBExport.DatabaseBuilders.csproj",
+        "packagesPath": "C:\\Users\\THAO_LAPTOP\\.nuget\\packages\\",
+        "outputPath": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseBuilders\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\THAO_LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseObjects\\DBExport.DatabaseObjects.csproj": {
+                "projectPath": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseObjects\\DBExport.DatabaseObjects.csproj"
+              },
+              "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.Options\\DBExport.Options.csproj": {
+                "projectPath": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.Options\\DBExport.Options.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseObjects\\DBExport.DatabaseObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseObjects\\DBExport.DatabaseObjects.csproj",
+        "projectName": "DBExport.DatabaseObjects",
+        "projectPath": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseObjects\\DBExport.DatabaseObjects.csproj",
+        "packagesPath": "C:\\Users\\THAO_LAPTOP\\.nuget\\packages\\",
+        "outputPath": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseObjects\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\THAO_LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseWriter\\DBExport.DatabaseWriter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseWriter\\DBExport.DatabaseWriter.csproj",
+        "projectName": "DBExport.DatabaseWriter",
+        "projectPath": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseWriter\\DBExport.DatabaseWriter.csproj",
+        "packagesPath": "C:\\Users\\THAO_LAPTOP\\.nuget\\packages\\",
+        "outputPath": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseWriter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\THAO_LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseObjects\\DBExport.DatabaseObjects.csproj": {
+                "projectPath": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseObjects\\DBExport.DatabaseObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.Options\\DBExport.Options.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.Options\\DBExport.Options.csproj",
+        "projectName": "DBExport.Options",
+        "projectPath": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.Options\\DBExport.Options.csproj",
+        "packagesPath": "C:\\Users\\THAO_LAPTOP\\.nuget\\packages\\",
+        "outputPath": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.Options\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\THAO_LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport\\DBExport.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport\\DBExport.csproj",
+        "projectName": "DBExport",
+        "projectPath": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport\\DBExport.csproj",
+        "packagesPath": "C:\\Users\\THAO_LAPTOP\\.nuget\\packages\\",
+        "outputPath": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\THAO_LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseBuilders\\DBExport.DatabaseBuilders.csproj": {
+                "projectPath": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseBuilders\\DBExport.DatabaseBuilders.csproj"
+              },
+              "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseObjects\\DBExport.DatabaseObjects.csproj": {
+                "projectPath": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseObjects\\DBExport.DatabaseObjects.csproj"
+              },
+              "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseWriter\\DBExport.DatabaseWriter.csproj": {
+                "projectPath": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseWriter\\DBExport.DatabaseWriter.csproj"
+              },
+              "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.Options\\DBExport.Options.csproj": {
+                "projectPath": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.Options\\DBExport.Options.csproj"
+              },
+              "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\OptionsBuilderTests\\OptionsBuilderTests.csproj": {
+                "projectPath": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\OptionsBuilderTests\\OptionsBuilderTests.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\OptionsBuilderTests\\OptionsBuilderTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\OptionsBuilderTests\\OptionsBuilderTests.csproj",
+        "projectName": "OptionsBuilderTests",
+        "projectPath": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\OptionsBuilderTests\\OptionsBuilderTests.csproj",
+        "packagesPath": "C:\\Users\\THAO_LAPTOP\\.nuget\\packages\\",
+        "outputPath": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\OptionsBuilderTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\THAO_LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.Options\\DBExport.Options.csproj": {
+                "projectPath": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.Options\\DBExport.Options.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

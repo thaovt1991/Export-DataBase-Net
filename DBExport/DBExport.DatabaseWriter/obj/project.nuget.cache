@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PWD0Oqm/tOo=",
+  "success": true,
+  "projectFilePath": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseWriter\\DBExport.DatabaseWriter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\THAO_LAPTOP\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

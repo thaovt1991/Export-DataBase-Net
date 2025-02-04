@@ -1,0 +1,400 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{971F10DC-6BC7-4814-B836-86031576ED10}|OptionsBuilderTests\\OptionsBuilderTests.csproj|c:\\project learning\\export learning\\export-database-net\\dbexport\\optionsbuildertests\\parameterunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971F10DC-6BC7-4814-B836-86031576ED10}|OptionsBuilderTests\\OptionsBuilderTests.csproj|solutionrelative:optionsbuildertests\\parameterunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971F10DC-6BC7-4814-B836-86031576ED10}|OptionsBuilderTests\\OptionsBuilderTests.csproj|c:\\project learning\\export learning\\export-database-net\\dbexport\\optionsbuildertests\\optionsbuildertests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{971F10DC-6BC7-4814-B836-86031576ED10}|OptionsBuilderTests\\OptionsBuilderTests.csproj|solutionrelative:optionsbuildertests\\optionsbuildertests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D464B96-1DBD-4082-A2DB-8C7179AEB560}|DBExport.DatabaseWriter\\DBExport.DatabaseWriter.csproj|c:\\project learning\\export learning\\export-database-net\\dbexport\\dbexport.databasewriter\\abstractions\\idatawriterfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D464B96-1DBD-4082-A2DB-8C7179AEB560}|DBExport.DatabaseWriter\\DBExport.DatabaseWriter.csproj|solutionrelative:dbexport.databasewriter\\abstractions\\idatawriterfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D464B96-1DBD-4082-A2DB-8C7179AEB560}|DBExport.DatabaseWriter\\DBExport.DatabaseWriter.csproj|c:\\project learning\\export learning\\export-database-net\\dbexport\\dbexport.databasewriter\\csv\\csvdatabasewriterfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D464B96-1DBD-4082-A2DB-8C7179AEB560}|DBExport.DatabaseWriter\\DBExport.DatabaseWriter.csproj|solutionrelative:dbexport.databasewriter\\csv\\csvdatabasewriterfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D464B96-1DBD-4082-A2DB-8C7179AEB560}|DBExport.DatabaseWriter\\DBExport.DatabaseWriter.csproj|c:\\project learning\\export learning\\export-database-net\\dbexport\\dbexport.databasewriter\\csv\\csvdatawriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D464B96-1DBD-4082-A2DB-8C7179AEB560}|DBExport.DatabaseWriter\\DBExport.DatabaseWriter.csproj|solutionrelative:dbexport.databasewriter\\csv\\csvdatawriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E42961-9A31-44A5-897B-1CB76363322B}|DBExport\\DBExport.csproj|c:\\project learning\\export learning\\export-database-net\\dbexport\\dbexport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E42961-9A31-44A5-897B-1CB76363322B}|DBExport\\DBExport.csproj|solutionrelative:dbexport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D464B96-1DBD-4082-A2DB-8C7179AEB560}|DBExport.DatabaseWriter\\DBExport.DatabaseWriter.csproj|c:\\project learning\\export learning\\export-database-net\\dbexport\\dbexport.databasewriter\\dbexport.databasewriter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D464B96-1DBD-4082-A2DB-8C7179AEB560}|DBExport.DatabaseWriter\\DBExport.DatabaseWriter.csproj|solutionrelative:dbexport.databasewriter\\dbexport.databasewriter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE71A64-75F7-42D0-8C64-51F29BF585DB}|DBExport.Options\\DBExport.Options.csproj|c:\\project learning\\export learning\\export-database-net\\dbexport\\dbexport.options\\enum\\exportformats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE71A64-75F7-42D0-8C64-51F29BF585DB}|DBExport.Options\\DBExport.Options.csproj|solutionrelative:dbexport.options\\enum\\exportformats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D464B96-1DBD-4082-A2DB-8C7179AEB560}|DBExport.DatabaseWriter\\DBExport.DatabaseWriter.csproj|c:\\project learning\\export learning\\export-database-net\\dbexport\\dbexport.databasewriter\\abstractions\\idatawriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D464B96-1DBD-4082-A2DB-8C7179AEB560}|DBExport.DatabaseWriter\\DBExport.DatabaseWriter.csproj|solutionrelative:dbexport.databasewriter\\abstractions\\idatawriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE71A64-75F7-42D0-8C64-51F29BF585DB}|DBExport.Options\\DBExport.Options.csproj|c:\\project learning\\export learning\\export-database-net\\dbexport\\dbexport.options\\databaseexportoptionsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE71A64-75F7-42D0-8C64-51F29BF585DB}|DBExport.Options\\DBExport.Options.csproj|solutionrelative:dbexport.options\\databaseexportoptionsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE71A64-75F7-42D0-8C64-51F29BF585DB}|DBExport.Options\\DBExport.Options.csproj|c:\\project learning\\export learning\\export-database-net\\dbexport\\dbexport.options\\databaseexportoptionsbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE71A64-75F7-42D0-8C64-51F29BF585DB}|DBExport.Options\\DBExport.Options.csproj|solutionrelative:dbexport.options\\databaseexportoptionsbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E6F07-4BE5-48A5-A729-6EB23B397276}|DBExport.DatabaseBuilders\\DBExport.DatabaseBuilders.csproj|c:\\project learning\\export learning\\export-database-net\\dbexport\\dbexport.databasebuilders\\databasebuilderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141E6F07-4BE5-48A5-A729-6EB23B397276}|DBExport.DatabaseBuilders\\DBExport.DatabaseBuilders.csproj|solutionrelative:dbexport.databasebuilders\\databasebuilderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E6F07-4BE5-48A5-A729-6EB23B397276}|DBExport.DatabaseBuilders\\DBExport.DatabaseBuilders.csproj|c:\\project learning\\export learning\\export-database-net\\dbexport\\dbexport.databasebuilders\\dbexport.databasebuilders.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{141E6F07-4BE5-48A5-A729-6EB23B397276}|DBExport.DatabaseBuilders\\DBExport.DatabaseBuilders.csproj|solutionrelative:dbexport.databasebuilders\\dbexport.databasebuilders.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E42961-9A31-44A5-897B-1CB76363322B}|DBExport\\DBExport.csproj|c:\\project learning\\export learning\\export-database-net\\dbexport\\dbexport\\dbexport.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98E42961-9A31-44A5-897B-1CB76363322B}|DBExport\\DBExport.csproj|solutionrelative:dbexport\\dbexport.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E6F07-4BE5-48A5-A729-6EB23B397276}|DBExport.DatabaseBuilders\\DBExport.DatabaseBuilders.csproj|c:\\project learning\\export learning\\export-database-net\\dbexport\\dbexport.databasebuilders\\sqlserver\\sqlserverdatabasebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141E6F07-4BE5-48A5-A729-6EB23B397276}|DBExport.DatabaseBuilders\\DBExport.DatabaseBuilders.csproj|solutionrelative:dbexport.databasebuilders\\sqlserver\\sqlserverdatabasebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EA9AE5-8F5F-423B-AD96-D844099880CF}|DBExport.DatabaseObjects\\DBExport.DatabaseObjects.csproj|c:\\project learning\\export learning\\export-database-net\\dbexport\\dbexport.databaseobjects\\exportsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EA9AE5-8F5F-423B-AD96-D844099880CF}|DBExport.DatabaseObjects\\DBExport.DatabaseObjects.csproj|solutionrelative:dbexport.databaseobjects\\exportsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EA9AE5-8F5F-423B-AD96-D844099880CF}|DBExport.DatabaseObjects\\DBExport.DatabaseObjects.csproj|c:\\project learning\\export learning\\export-database-net\\dbexport\\dbexport.databaseobjects\\iexportsourcebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EA9AE5-8F5F-423B-AD96-D844099880CF}|DBExport.DatabaseObjects\\DBExport.DatabaseObjects.csproj|solutionrelative:dbexport.databaseobjects\\iexportsourcebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE71A64-75F7-42D0-8C64-51F29BF585DB}|DBExport.Options\\DBExport.Options.csproj|c:\\project learning\\export learning\\export-database-net\\dbexport\\dbexport.options\\idatabaseexportoptionsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE71A64-75F7-42D0-8C64-51F29BF585DB}|DBExport.Options\\DBExport.Options.csproj|solutionrelative:dbexport.options\\idatabaseexportoptionsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE71A64-75F7-42D0-8C64-51F29BF585DB}|DBExport.Options\\DBExport.Options.csproj|c:\\project learning\\export learning\\export-database-net\\dbexport\\dbexport.options\\model\\exportoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE71A64-75F7-42D0-8C64-51F29BF585DB}|DBExport.Options\\DBExport.Options.csproj|solutionrelative:dbexport.options\\model\\exportoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE71A64-75F7-42D0-8C64-51F29BF585DB}|DBExport.Options\\DBExport.Options.csproj|c:\\project learning\\export learning\\export-database-net\\dbexport\\dbexport.options\\model\\databaseexportoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE71A64-75F7-42D0-8C64-51F29BF585DB}|DBExport.Options\\DBExport.Options.csproj|solutionrelative:dbexport.options\\model\\databaseexportoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE71A64-75F7-42D0-8C64-51F29BF585DB}|DBExport.Options\\DBExport.Options.csproj|c:\\project learning\\export learning\\export-database-net\\dbexport\\dbexport.options\\model\\databaseoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE71A64-75F7-42D0-8C64-51F29BF585DB}|DBExport.Options\\DBExport.Options.csproj|solutionrelative:dbexport.options\\model\\databaseoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE71A64-75F7-42D0-8C64-51F29BF585DB}|DBExport.Options\\DBExport.Options.csproj|c:\\project learning\\export learning\\export-database-net\\dbexport\\dbexport.options\\enum\\servertypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE71A64-75F7-42D0-8C64-51F29BF585DB}|DBExport.Options\\DBExport.Options.csproj|solutionrelative:dbexport.options\\enum\\servertypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParameterUnitTest.cs",
+              "DocumentMoniker": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\OptionsBuilderTests\\ParameterUnitTest.cs",
+              "RelativeDocumentMoniker": "OptionsBuilderTests\\ParameterUnitTest.cs",
+              "ToolTip": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\OptionsBuilderTests\\ParameterUnitTest.cs",
+              "RelativeToolTip": "OptionsBuilderTests\\ParameterUnitTest.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:33:04.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OptionsBuilderTests",
+              "DocumentMoniker": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\OptionsBuilderTests\\OptionsBuilderTests.csproj",
+              "RelativeDocumentMoniker": "OptionsBuilderTests\\OptionsBuilderTests.csproj",
+              "ToolTip": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\OptionsBuilderTests\\OptionsBuilderTests.csproj",
+              "RelativeToolTip": "OptionsBuilderTests\\OptionsBuilderTests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T15:32:26.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport\\Program.cs",
+              "RelativeDocumentMoniker": "DBExport\\Program.cs",
+              "ToolTip": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport\\Program.cs",
+              "RelativeToolTip": "DBExport\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:58:04.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CsvDataWriter.cs",
+              "DocumentMoniker": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseWriter\\CSV\\CsvDataWriter.cs",
+              "RelativeDocumentMoniker": "DBExport.DatabaseWriter\\CSV\\CsvDataWriter.cs",
+              "ToolTip": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseWriter\\CSV\\CsvDataWriter.cs",
+              "RelativeToolTip": "DBExport.DatabaseWriter\\CSV\\CsvDataWriter.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:37:36.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CsvDatabaseWriterFactory.cs",
+              "DocumentMoniker": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseWriter\\CSV\\CsvDatabaseWriterFactory.cs",
+              "RelativeDocumentMoniker": "DBExport.DatabaseWriter\\CSV\\CsvDatabaseWriterFactory.cs",
+              "ToolTip": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseWriter\\CSV\\CsvDatabaseWriterFactory.cs",
+              "RelativeToolTip": "DBExport.DatabaseWriter\\CSV\\CsvDatabaseWriterFactory.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAawAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:40:00.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDataWriter.cs",
+              "DocumentMoniker": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseWriter\\Abstractions\\IDataWriter.cs",
+              "RelativeDocumentMoniker": "DBExport.DatabaseWriter\\Abstractions\\IDataWriter.cs",
+              "ToolTip": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseWriter\\Abstractions\\IDataWriter.cs",
+              "RelativeToolTip": "DBExport.DatabaseWriter\\Abstractions\\IDataWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:42:40.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DatabaseExportOptionsBuilder.cs",
+              "DocumentMoniker": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.Options\\DatabaseExportOptionsBuilder.cs",
+              "RelativeDocumentMoniker": "DBExport.Options\\DatabaseExportOptionsBuilder.cs",
+              "ToolTip": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.Options\\DatabaseExportOptionsBuilder.cs",
+              "RelativeToolTip": "DBExport.Options\\DatabaseExportOptionsBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:28:08.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DatabaseExportOptionsValidator.cs",
+              "DocumentMoniker": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.Options\\DatabaseExportOptionsValidator.cs",
+              "RelativeDocumentMoniker": "DBExport.Options\\DatabaseExportOptionsValidator.cs",
+              "ToolTip": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.Options\\DatabaseExportOptionsValidator.cs",
+              "RelativeToolTip": "DBExport.Options\\DatabaseExportOptionsValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:25:15.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDataWriterFactory.cs",
+              "DocumentMoniker": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseWriter\\Abstractions\\IDataWriterFactory.cs",
+              "RelativeDocumentMoniker": "DBExport.DatabaseWriter\\Abstractions\\IDataWriterFactory.cs",
+              "ToolTip": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseWriter\\Abstractions\\IDataWriterFactory.cs",
+              "RelativeToolTip": "DBExport.DatabaseWriter\\Abstractions\\IDataWriterFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:42:11.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExportFormats.cs",
+              "DocumentMoniker": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.Options\\Enum\\ExportFormats.cs",
+              "RelativeDocumentMoniker": "DBExport.Options\\Enum\\ExportFormats.cs",
+              "ToolTip": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.Options\\Enum\\ExportFormats.cs",
+              "RelativeToolTip": "DBExport.Options\\Enum\\ExportFormats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:31:50.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBExport.DatabaseWriter",
+              "DocumentMoniker": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseWriter\\DBExport.DatabaseWriter.csproj",
+              "RelativeDocumentMoniker": "DBExport.DatabaseWriter\\DBExport.DatabaseWriter.csproj",
+              "ToolTip": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseWriter\\DBExport.DatabaseWriter.csproj",
+              "RelativeToolTip": "DBExport.DatabaseWriter\\DBExport.DatabaseWriter.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T15:02:29.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatabaseBuilderFactory.cs",
+              "DocumentMoniker": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseBuilders\\DatabaseBuilderFactory.cs",
+              "RelativeDocumentMoniker": "DBExport.DatabaseBuilders\\DatabaseBuilderFactory.cs",
+              "ToolTip": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseBuilders\\DatabaseBuilderFactory.cs",
+              "RelativeToolTip": "DBExport.DatabaseBuilders\\DatabaseBuilderFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAlwBIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:49:52.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DBExport.DatabaseBuilders",
+              "DocumentMoniker": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseBuilders\\DBExport.DatabaseBuilders.csproj",
+              "RelativeDocumentMoniker": "DBExport.DatabaseBuilders\\DBExport.DatabaseBuilders.csproj",
+              "ToolTip": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseBuilders\\DBExport.DatabaseBuilders.csproj",
+              "RelativeToolTip": "DBExport.DatabaseBuilders\\DBExport.DatabaseBuilders.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T14:52:24.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DBExport",
+              "DocumentMoniker": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport\\DBExport.csproj",
+              "RelativeDocumentMoniker": "DBExport\\DBExport.csproj",
+              "ToolTip": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport\\DBExport.csproj",
+              "RelativeToolTip": "DBExport\\DBExport.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T14:58:41.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SqlServerDatabaseBuilder.cs",
+              "DocumentMoniker": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseBuilders\\SqlServer\\SqlServerDatabaseBuilder.cs",
+              "RelativeDocumentMoniker": "DBExport.DatabaseBuilders\\SqlServer\\SqlServerDatabaseBuilder.cs",
+              "ToolTip": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseBuilders\\SqlServer\\SqlServerDatabaseBuilder.cs",
+              "RelativeToolTip": "DBExport.DatabaseBuilders\\SqlServer\\SqlServerDatabaseBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:55:20.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExportSource.cs",
+              "DocumentMoniker": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseObjects\\ExportSource.cs",
+              "RelativeDocumentMoniker": "DBExport.DatabaseObjects\\ExportSource.cs",
+              "ToolTip": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseObjects\\ExportSource.cs",
+              "RelativeToolTip": "DBExport.DatabaseObjects\\ExportSource.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:44:34.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IExportSourceBuilder.cs",
+              "DocumentMoniker": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseObjects\\IExportSourceBuilder.cs",
+              "RelativeDocumentMoniker": "DBExport.DatabaseObjects\\IExportSourceBuilder.cs",
+              "ToolTip": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.DatabaseObjects\\IExportSourceBuilder.cs",
+              "RelativeToolTip": "DBExport.DatabaseObjects\\IExportSourceBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:46:13.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExportOptions.cs",
+              "DocumentMoniker": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.Options\\Model\\ExportOptions.cs",
+              "RelativeDocumentMoniker": "DBExport.Options\\Model\\ExportOptions.cs",
+              "ToolTip": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.Options\\Model\\ExportOptions.cs",
+              "RelativeToolTip": "DBExport.Options\\Model\\ExportOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:32:37.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServerTypes.cs",
+              "DocumentMoniker": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.Options\\Enum\\ServerTypes.cs",
+              "RelativeDocumentMoniker": "DBExport.Options\\Enum\\ServerTypes.cs",
+              "ToolTip": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.Options\\Enum\\ServerTypes.cs",
+              "RelativeToolTip": "DBExport.Options\\Enum\\ServerTypes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:22:46.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DatabaseOptions.cs",
+              "DocumentMoniker": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.Options\\Model\\DatabaseOptions.cs",
+              "RelativeDocumentMoniker": "DBExport.Options\\Model\\DatabaseOptions.cs",
+              "ToolTip": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.Options\\Model\\DatabaseOptions.cs",
+              "RelativeToolTip": "DBExport.Options\\Model\\DatabaseOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:19:10.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DatabaseExportOptions.cs",
+              "DocumentMoniker": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.Options\\Model\\DatabaseExportOptions.cs",
+              "RelativeDocumentMoniker": "DBExport.Options\\Model\\DatabaseExportOptions.cs",
+              "ToolTip": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.Options\\Model\\DatabaseExportOptions.cs",
+              "RelativeToolTip": "DBExport.Options\\Model\\DatabaseExportOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:18:28.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDatabaseExportOptionsValidator.cs",
+              "DocumentMoniker": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.Options\\IDatabaseExportOptionsValidator.cs",
+              "RelativeDocumentMoniker": "DBExport.Options\\IDatabaseExportOptionsValidator.cs",
+              "ToolTip": "C:\\Project Learning\\Export learning\\Export-DataBase-Net\\DBExport\\DBExport.Options\\IDatabaseExportOptionsValidator.cs",
+              "RelativeToolTip": "DBExport.Options\\IDatabaseExportOptionsValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:17:37.634Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
